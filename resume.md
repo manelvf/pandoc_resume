@@ -1,100 +1,199 @@
-Johnny Coder
-============
+# Manel Villar
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  Senior Full Stack Software Developer
 
 ----
 
-Education
----------
+> [Portfolio](https://manelvf.github.io) • [Github profile](https://github.com/manelvf) • [LinkedIn](https://www.linkedin.com/in/manelvillar/)
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+> <manelvf@gmail.com> • +49 (0)162 657 4604
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+> Paulsborner Str. 9 - 10709, Berlin (Germany)
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+----
 
-    *Minor: Awesomeology*
+## Experience
 
-Experience
-----------
+2013 - now
+:   **Senior Full Stack Developer** at Oracle, Corp. via AcmePacket acquisition
 
-**Your Most Recent Work Experience:**
+Berlin, Germany
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+[Oracle Communications Operations Monitor (formerly Palladion Communication Suite).](https://www.oracle.com/industries/communications/service-providers/products/operations-monitor/index.html)
 
-* First item
+Tasks: 
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+- Implementing new features for the network monitoring suite of products used in combination with Session Border Controller (SBC) devices.
+- Python backend and Javascript frontend.
+- Interaction between multiple daemons with different storage systems and a web server frontend.
+- Basic knowledge of SIP network protocol.
+- Test driven development using unit tests, integration tests and system tests.
+- Development using containers and virtual machines.
+- Continuous integration and daily builds.
 
-**That Other Job You Had**
+2009 - 2013
+:   **Freelance**
 
-Also with a short description.
+Works:
+
+* **[VogueLV](http://voguelv.com)**. Retail shoe shop chain.
+    - Complete UX customization.
+    - Online stock management and integration with physical stores.
+
+* **[RueVintage74](http://ruevintage74.com)**. Online fashion shop.
+    - Complete UX customization.
+
+* Facebook based HR recruitment application **“¿Quieres trabajar en Acciona?”** *(Do you want to work in Acciona?”*.
+  Developed for [Jaratech](http://www.jaratech.com/) as a contracted work for [Acciona Corp](http://www.acciona.es/). Discontinued due legal reasons. Backend in Python (Django), frontend FBML, FBJS. 
+* Another contributions:
+    - [Aplihorsa Modular](http://www.aplihorsamodular.com). Premanufactured houses web catalog. UI improvements.
+    - spiritmalde.com. Watch online shop.
+    - conservasdecarino.com. Canned food online shop.
+
+\pagebreak
+
+2007-2009
+:    **Web Developer** at Ilion Animation Studios
+
+Madrid, Spain
+
+Animation Studios, oriented to high quality 3D animation film production.
+
+Tasks:
+
+- Intranet Web development in PHP of general purpose internal tools for film production: asset tracking and pipeline management.
+- Migration from existing framework to 2.0 Web Application. 
+- Javascript development: ExtJS and jQuery.
+- Databases: PostgresSQL and MySQL.
+- [Video portfolio](http://vimeo.com/album/93295)
+
+
+2004-2007
+:   **Software Developer** Joyerías José Luis
+
+A Coruña, Spain
+
+Retail Jewelry shop chain.
+
+Tasks:
+
+- Intranet Web Application Development in PHP.
+- Database administration: MySQLDB. Tools used: phpMyAdmin and Toad.
+- Javascript coding:  AJAX, JSON, XPATH, Ajax.
+- Form and web interfaces design. UI controls design.
+- SQL queries and processes optimization.
+- Permission and user access control system. 
+- XML dynamic report generation.
+- Python scripting for auxiliar tasks.
+
+
+Developed modules: 
+    • Inventory and stock management.
+    • Goods reception and shipping.
+
+2003
+:    **Junior Software Developer** at Class One
+
+A Coruña, Spain
+
+Company dedicated to developing and maintaining on-trade-oriented (hotels and restaurants) applications.
+
+- COBOL development of text-mode applications.
+- Auxiliar tools for codebase management in Python and C.
+
+2002
+:    **Internship**
+
+Carino, Spain
+
+Flash website for canned Food Factory.
+
+
+\pagebreak
 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+### Open Source
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+- Added **es3** support to [Google Closure Linter](https://github.com/google/closure-linter) [Python].
+- New example added for [Raspberry PI LED hat](https://github.com/manelvf/RPi-WS2812-HAT). Arduino **C**.
+- Translation file added to [Discourse](https://github.com/discourse/discourse) forum software.
+- Several improvements to [social news aggregator (Reddit-style)](https://github.com/chuza/chuza): cascade comments, bug fixing, events calendar...
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+### Other projects
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+- Javascript demos and twitter bots available in my [portfolio](https://manelvf.github.io).
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+- MS-DOS videogame developed in C (1997). Now available for playing [online](https://manelvf.github.io/lumeinfernal/) via EMScripten emulation. 
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+- [Blog](https://manelvf.github.io/blog/) with technical notes. 
 
-[ref]: https://github.com/githubuser/superlongprojectname
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+### Programming Languages
 
-* Human Languages:
+**Python**
+:   +5 years of experience with different libraries and 
+frameworks: Django, Flask, virtual environments.
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+**Javascript**
+:   +10 years of experience, from pre-Ajax era to ES6.
 
-* Random tidbit
+**Ruby**
+:   Final degree work made in Sinatra.
 
-* Other sort of impressive-sounding thing you did
+**PHP**
+:   +5 years of experience developing web applications.
+
+**Java**
+:   Several university projects.
+
+**Scala**
+:   Three days training in Scala Academy.
+
+Basic knowledge
+:   **C/C++**, **x86 assembly**, **Go**, **Perl**, **COBOL**.
+
+
+### Additional Technologies
+
+Infrastructure
+:   **Vagrant**, **Docker**, **Jenkins**, **Ansible**, Linux **shell and command line**.
+
+Version Control
+:   **Git**, **Mercurial**, **Bazaar**, **SVN**.
+
+
+## Education
+
+2012 
+:   **Computer Science Degree**; Universitat Oberta de Catalunya.
+
+    *Final degree work: web application in Ruby (Sinatra) for translating other applications:
+      [Transboard](https://github.com/manelvf/Transboard)*
+
+2000-2002
+:   **C.S. in Multiuser and Multitask Operating System Administration**; Fernando Wirtz Institute. A Coruña, Spain.
+
+    *Course subjects: networking, network protocols, Java and C programming, Windows and Linux administration.*
+
+## Additional Skills
+
+Languages:
+
+  - English (fluent)
+  - German (basic)
+  - Spanish (native)
+  - Portuguese (B2)
+
+Involved in Raspberry PI Jam Berlin event organization.
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <manelvf@gmail.com> • +49 (0)162 657 4604
+
+> Paulsborner Str. 9 - 10709, Berlin (Germany)
+
