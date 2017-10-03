@@ -155,10 +155,13 @@ frameworks: Django, Flask, virtual environments.
 :   Three days training in Scala Academy.
 
 Basic knowledge
-:   **C/C++**, **x86 assembly**, **Go**, **Perl**, **COBOL**.
+:   **ZMQ** **C/C++**, **x86 assembly**, **Go**, **Perl**, **COBOL**.
 
 
 ### Additional Technologies
+
+Databases
+:   **Redis**, **MySQL**, **PostgresSQL**.
 
 Infrastructure
 :   **Vagrant**, **Docker**, **Jenkins**, **Ansible**, Linux **shell and command line**.
