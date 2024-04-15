@@ -5,7 +5,7 @@ resume.pdf: resume.md
 	pandoc --standalone --template style_chmduquesne.tex \
 	--from markdown --to context \
 	-V papersize=A4 \
-	-o build/resume.tex resume.md; \
+	-o build/resume.tex resume.md
 	context build/resume.tex --result=build/resume.pdf
 
 html: resume.html
