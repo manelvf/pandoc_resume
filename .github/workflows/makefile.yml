@@ -20,8 +20,9 @@ jobs:
     - name: Install dependencies
       run: make
 
-    - name: Run check
-      run: make check
+    - name: Archive PDF
+      uses: actions/upload-artifact@v2
+      with:
+        name: pdf-resume
+        path: build/resume.pdf
 
-    - name: Run distcheck
-      run: make distcheck
