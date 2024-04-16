@@ -2,36 +2,63 @@
 
 ----
 
->  Senior Full Stack Software Developer
+>  Senior Software Developer
 
 ----
 
-> [Portfolio](https://manelvf.github.io) • [Github profile](https://github.com/manelvf) • [LinkedIn](https://www.linkedin.com/in/manelvillar/)
+> [Portfolio](https://manel.pro) • [Github profile](https://github.com/manelvf) • [LinkedIn](https://www.linkedin.com/in/manelvillar/)
 
 > <manelvf@gmail.com> • +49 (0)162 657 4604
 
-> Paulsborner Str. 9 - 10709, Berlin (Germany)
+> Steegerstr. 59 - 13359, Berlin (Germany)
 
 ----
 
 ## Experience
 
-2013 - now
-:   **Senior Full Stack Developer** at Oracle, Corp. via AcmePacket acquisition
+May 2020 - now
 
-Berlin, Germany
+:   **Senior Test Software Developer** at Snom Technology GmbH 9 (Berlin, Germany)
+
+
+Development of automation testing framework for SIP telophony devices interoperability (IoT).
+
+Tasks:
+
+- Decide and implement the technologies used by the team and the development efforts course.
+- Technologies used: Python, Typescript, React, Docker, Jenkins, Bash, Ansible.
+
+
+Nov 2018 - April 2020
+
+:   **Senior Software Developer** at Spring Media GmbH (Berlin, Germany)
+
+
+Microservices development for media services in Amazon AWS.
+
+Tasks:
+
+- Worked in a Scrum team for attending the needs of the company projects.
+- Technologies: S3, SQS, Amazon Video Services, Amazon Lambda, Terraform, Typescript, React.
+
+
+May 2013 - Oct 2018
+
+:   **Senior Software Developer** at Oracle, Corp. via AcmePacket acquisition (Berlin, Germany)
 
 [Oracle Communications Operations Monitor (formerly Palladion Communication Suite).](https://www.oracle.com/industries/communications/service-providers/products/operations-monitor/index.html)
 
 Tasks: 
 
 - Implementing new features for the network monitoring suite of products used in combination with Session Border Controller (SBC) devices.
-- Python backend and Javascript frontend.
+- Python backend (custom and Flask) and Javascript frontend (ExtJS).
 - Interaction between multiple daemons with different storage systems and a web server frontend.
 - Basic knowledge of SIP network protocol.
 - Test driven development using unit tests, integration tests and system tests.
-- Development using containers and virtual machines.
+- Development using docker containers and virtual machines provisioned with Vagrant.
 - Continuous integration and daily builds.
+
+\pagebreak
 
 2009 - 2013
 :   **Freelance**
@@ -52,12 +79,9 @@ Works:
     - spiritmalde.com. Watch online shop.
     - conservasdecarino.com. Canned food online shop.
 
-\pagebreak
 
 2007-2009
-:    **Web Developer** at Ilion Animation Studios
-
-Madrid, Spain
+:    **Web Developer** at Ilion Animation Studios (Madrid, Spain)
 
 Animation Studios, oriented to high quality 3D animation film production.
 
@@ -65,15 +89,12 @@ Tasks:
 
 - Intranet Web development in PHP of general purpose internal tools for film production: asset tracking and pipeline management.
 - Migration from existing framework to 2.0 Web Application. 
-- Javascript development: ExtJS and jQuery.
-- Databases: PostgresSQL and MySQL.
+- Technologies: PHP, ExtJS, jQuery, PostgresSQL, Subversion.
 - [Video portfolio](http://vimeo.com/album/93295)
 
 
 2004-2007
-:   **Software Developer** Joyerías José Luis
-
-A Coruña, Spain
+:   **Software Developer** Joyerías José Luis (A Coruña, Spain)
 
 Retail Jewelry shop chain.
 
@@ -81,12 +102,9 @@ Tasks:
 
 - Intranet Web Application Development in PHP.
 - Database administration: MySQLDB. Tools used: phpMyAdmin and Toad.
-- Javascript coding:  AJAX, JSON, XPATH, Ajax.
 - Form and web interfaces design. UI controls design.
 - SQL queries and processes optimization.
 - Permission and user access control system. 
-- XML dynamic report generation.
-- Python scripting for auxiliar tasks.
 
 
 Developed modules: 
@@ -94,19 +112,14 @@ Developed modules:
     • Goods reception and shipping.
 
 2003
-:    **Junior Software Developer** at Class One
-
-A Coruña, Spain
+:    **Junior Software Developer** at Class One (A Coruña, Spain)
 
 Company dedicated to developing and maintaining on-trade-oriented (hotels and restaurants) applications.
 
-- COBOL development of text-mode applications.
-- Auxiliar tools for codebase management in Python and C.
+- COBOL development of text-mode hostelry applications.
 
 2002
-:    **Internship**
-
-Carino, Spain
+:    **Internship** as Conservas La Pureza (Carino, Spain)
 
 Flash website for canned Food Factory.
 
@@ -121,7 +134,7 @@ Technical Experience
 - Added **es3** support to [Google Closure Linter](https://github.com/google/closure-linter) [Python].
 - New example added for [Raspberry PI LED hat](https://github.com/manelvf/RPi-WS2812-HAT). Arduino **C**.
 - Translation file added to [Discourse](https://github.com/discourse/discourse) forum software.
-- Several improvements to [social news aggregator (Reddit-style)](https://github.com/chuza/chuza): cascade comments, bug fixing, events calendar...
+- Several minor improvements to other open source projects.
 
 
 ### Other projects
@@ -135,33 +148,13 @@ Technical Experience
 
 ### Programming Languages
 
-**Python**
-:   +5 years of experience with different libraries and 
-frameworks: Django, Flask, virtual environments.
-
-**Javascript**
-:   +10 years of experience, from pre-Ajax era to ES6.
-
-**Ruby**
-:   Final degree work made in Sinatra.
-
-**PHP**
-:   +5 years of experience developing web applications.
-
-**Java**
-:   Several university projects.
-
-**Scala**
-:   Three days training in Scala Academy.
-
-Basic knowledge
-:   **ZMQ** **C/C++**, **x86 assembly**, **Go**, **Perl**, **COBOL**.
+Python, Javascript/Typescript. Ruby, PHP, Java, C.
 
 
 ### Additional Technologies
 
 Databases
-:   **Redis**, **MySQL**, **PostgresSQL**.
+:   **Redis**, **MySQL**, **PostgresSQL**, **DynamoDB**, **SQLite**
 
 Infrastructure
 :   **Vagrant**, **Docker**, **Jenkins**, **Ansible**, Linux **shell and command line**.
@@ -169,34 +162,33 @@ Infrastructure
 Version Control
 :   **Git**, **Mercurial**, **Bazaar**, **SVN**.
 
+### Methodologies
+
+Scrumb, Kanban, Agile, Test Driven Development
+
 
 ## Education
 
-2012 
+2009-2012 
 :   **Computer Science Degree**; Universitat Oberta de Catalunya.
 
-    *Final degree work: web application in Ruby (Sinatra) for translating other applications:
-      [Transboard](https://github.com/manelvf/Transboard)*
+    Final degree work: Transboard, web application in Ruby for translating other applications. (https://github.com/manelvf/Transboard)
+
 
 2000-2002
-:   **C.S. in Multiuser and Multitask Operating System Administration**; Fernando Wirtz Institute. A Coruña, Spain.
+:   **Technical Course in Multiuser and Multitask Operating System Administration**; Fernando Wirtz Institute. A Coruña, Spain.
 
-    *Course subjects: networking, network protocols, Java and C programming, Windows and Linux administration.*
+    Course subjects: networking, network protocols, Java, C and COBOL programming, Windows and Linux administration.
 
 ## Additional Skills
 
-Languages:
+### Languages:
 
-  - English (fluent)
-  - German (basic)
-  - Spanish (native)
-  - Portuguese (B2)
-
-Involved in Raspberry PI Jam Berlin event organization.
+  - English (fluent), German (B1), Portuguese (B2), Spanish (native)
 
 ----
 
 > <manelvf@gmail.com> • +49 (0)162 657 4604
 
-> Paulsborner Str. 9 - 10709, Berlin (Germany)
+> Steegertr. 59 - 13359, Berlin (Germany)
 
