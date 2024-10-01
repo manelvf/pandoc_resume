@@ -1,4 +1,4 @@
-name: Makefile CI
+name: Convert Markdown to PDF
 
 on:
   push:
@@ -6,23 +6,28 @@ on:
   pull_request:
     branches: [ "master" ]
 
+
 jobs:
   build:
-
-    runs-on: pandoc/latex
+    runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v3
 
-    - name: configure
-      run: ./configure
+    - name: Install Pandoc
+      run: sudo apt-get install -y pandoc
 
-    - name: Install dependencies
-      run: make
+    - name: Install LaTeX dependencies
+      run: sudo apt-get install -y texlive-latex-recommended texlive-fonts-recommended texlive-latex-extra context texworks
 
-    - name: Archive PDF
-      uses: actions/upload-artifact@v2
+    - name: Convert Markdown to PDF
+      run: |
+        make pdf
+
+    - name: Upload PDF artifact
+      uses: actions/upload-artifact@v3
       with:
-        name: pdf-resume
-        path: build/resume.pdf
+        name: resume.pdf
+        path: resume.pdf
 

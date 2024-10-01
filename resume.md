@@ -16,9 +16,9 @@
 
 ## Experience
 
-May 2020 - now
+May 2020 - October 2024
 
-:   **Senior Test Software Developer** at Snom Technology GmbH 9 (Berlin, Germany)
+:   **Senior Software Test Developer** at Snom Technology GmbH 9 (Berlin, Germany)
 
 
 Development of automation testing framework for SIP telophony devices interoperability (IoT).
