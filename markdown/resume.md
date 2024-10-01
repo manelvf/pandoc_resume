@@ -18,7 +18,7 @@
 
 May 2020 - October 2024
 
-:   **Senior Software Test Developer** at Snom Technology GmbH 9 (Berlin, Germany)
+:   **Senior Software Test Developer** at Snom Technology GmbH (Berlin, Germany)
 
 
 Development of automation testing framework for SIP telophony devices interoperability (IoT).
@@ -26,7 +26,7 @@ Development of automation testing framework for SIP telophony devices interopera
 Tasks:
 
 - Decide and implement the technologies used by the team and the development efforts course.
-- Technologies used: Python, Typescript, React, Docker, Jenkins, Bash, Ansible.
+- Technologies used: Python, Typescript, React, Django, Docker, Jenkins, Bash, Ansible.
 
 
 Nov 2018 - April 2020
@@ -157,14 +157,14 @@ Databases
 :   **Redis**, **MySQL**, **PostgresSQL**, **DynamoDB**, **SQLite**
 
 Infrastructure
-:   **Vagrant**, **Docker**, **Jenkins**, **Ansible**, Linux **shell and command line**.
+:   **Vagrant**, **Docker**, **Jenkins**, **Ansible**, Linux **shell** and **command line**.
 
 Version Control
 :   **Git**, **Mercurial**, **Bazaar**, **SVN**.
 
 ### Methodologies
 
-Scrumb, Kanban, Agile, Test Driven Development
+Scrum, Kanban, Agile, Test Driven Development
 
 
 ## Education
