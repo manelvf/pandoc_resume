@@ -1,7 +1,8 @@
-*.tuc
 *.log
-resume.tex
 *.swo
 *.swp
-*.rtf
-build
+output/
+result
+result-*
+.envrc
+.direnv
