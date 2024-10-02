@@ -16,68 +16,75 @@
 
 ## Experience
 
-May 2020 - October 2024
+May 2020 - Oct 2024
 
-:   **Senior Software Test Developer** at Snom Technology GmbH (Berlin, Germany)
-
+:   **Senior Software Test Developer** at [Snom Technology GmbH](https://www.snom.com) (Berlin, Germany)
 
 Development of automation testing framework for SIP telophony devices interoperability (IoT).
 
-Tasks:
+*Achievements:*
 
+- Reduced the time needed for testing the company devices and increased the number of PBXs covered.
+- Reduced the number of bugs in the devices by detecting them earlier in the development process.
+
+*Tasks:*
+
+- Develop a testing framework for SIP devices interoperability.
 - Decide and implement the technologies used by the team and the development efforts course.
-- Technologies used: Python, Typescript, React, Django, Docker, Jenkins, Bash, Ansible.
+- Continuous integration implementation.
+
+*Technologies:* Python, Typescript, React, Django, Docker, Jenkins, Bash, Ansible.
 
 
 Nov 2018 - April 2020
 
-:   **Senior Software Developer** at Spring Media GmbH (Berlin, Germany)
-
+:   **Senior Software Developer** at [Spring Media GmbH](https://www.spring.media) (Berlin, Germany)
 
 Microservices development for media services in Amazon AWS.
 
-Tasks:
+*Achievements:*
 
-- Worked in a Scrum team for attending the needs of the company projects.
-- Technologies: S3, SQS, Amazon Video Services, Amazon Lambda, Terraform, Typescript, React.
+- Improved the performance of the media services by reducing the time needed for the media processing.
+- Reduced the costs of the media services by optimizing the resources used in the cloud.
+
+*Tasks:*
+
+- Worked in a Scrum team for attending the needs of the internal company projects.
+
+*Technologies:* S3, SQS, Amazon Video Services, Amazon Lambda, Terraform, Typescript, React.
 
 
 May 2013 - Oct 2018
 
-:   **Senior Software Developer** at Oracle, Corp. via AcmePacket acquisition (Berlin, Germany)
+:   **Senior Software Developer** at [Oracle, Corp.](https://www.oracle.com) via AcmePacket acquisition (Berlin, Germany)
 
-[Oracle Communications Operations Monitor (formerly Palladion Communication Suite).](https://www.oracle.com/industries/communications/service-providers/products/operations-monitor/index.html)
+Oracle Communications Operations Monitor
 
-Tasks: 
+*Achievements:*
 
-- Implementing new features for the network monitoring suite of products used in combination with Session Border Controller (SBC) devices.
-- Python backend (custom and Flask) and Javascript frontend (ExtJS).
-- Interaction between multiple daemons with different storage systems and a web server frontend.
-- Basic knowledge of SIP network protocol.
+- Increased the amount of possibilities that the test suite offered for showing the data to the customers.
+- Improved the general appearance of the product by adding new features and improving the existing ones.
+
+*Tasks:*
+
+- Implementing new features for the SIP network monitoring suite of products.
+- Developing a Python backend (custom and Flask) and Javascript frontend (ExtJS) for showing network diagrams and information.
 - Test driven development using unit tests, integration tests and system tests.
-- Development using docker containers and virtual machines provisioned with Vagrant.
-- Continuous integration and daily builds.
 
-\pagebreak
+*Technologies:* Python, Flask, ExtJS, Javascript, HTML, CSS, Jenkins, Docker, Ansible, Git.
+
 
 2009 - 2013
 :   **Freelance**
 
 Works:
 
-* **[VogueLV](http://voguelv.com)**. Retail shoe shop chain.
-    - Complete UX customization.
-    - Online stock management and integration with physical stores.
-
-* **[RueVintage74](http://ruevintage74.com)**. Online fashion shop.
-    - Complete UX customization.
-
-* Facebook based HR recruitment application **“¿Quieres trabajar en Acciona?”** *(Do you want to work in Acciona?”*.
-  Developed for [Jaratech](http://www.jaratech.com/) as a contracted work for [Acciona Corp](http://www.acciona.es/). Discontinued due legal reasons. Backend in Python (Django), frontend FBML, FBJS. 
-* Another contributions:
-    - [Aplihorsa Modular](http://www.aplihorsamodular.com). Premanufactured houses web catalog. UI improvements.
-    - spiritmalde.com. Watch online shop.
-    - conservasdecarino.com. Canned food online shop.
+- **[VogueLV](http://voguelv.com)**. Retail shoe shop chain.
+- **[RueVintage74](http://ruevintage74.com)**. Online fashion shop.
+- Facebook based HR recruitment application **“¿Quieres trabajar en Acciona?”** *(Do you want to work in Acciona?”*.
+- [Aplihorsa Modular](http://www.aplihorsamodular.com). Premanufactured houses web catalog. UI improvements.
+- spiritmalde.com. Luxury watch online shop.
+- conservasdecarino.com. Canned food online shop.
 
 
 2007-2009
@@ -85,12 +92,16 @@ Works:
 
 Animation Studios, oriented to high quality 3D animation film production.
 
-Tasks:
+*Achievements:*
+
+- Developed a complete asset tracking system for the film production pipeline.
+
+*Tasks*:
 
 - Intranet Web development in PHP of general purpose internal tools for film production: asset tracking and pipeline management.
 - Migration from existing framework to 2.0 Web Application. 
-- Technologies: PHP, ExtJS, jQuery, PostgresSQL, Subversion.
-- [Video portfolio](http://vimeo.com/album/93295)
+
+*Technologies:* PHP, ExtJS, jQuery, PostgresSQL, Subversion.
 
 
 2004-2007
@@ -98,42 +109,32 @@ Tasks:
 
 Retail Jewelry shop chain.
 
+*Achievements:*
+
+- Implemented a complete stock management application that allowed to distribute the stock between the shops and the warehouse.
+
 Tasks:
 
-- Intranet Web Application Development in PHP.
-- Database administration: MySQLDB. Tools used: phpMyAdmin and Toad.
-- Form and web interfaces design. UI controls design.
-- SQL queries and processes optimization.
-- Permission and user access control system. 
+- Intranet web application development in PHP.
 
-
-Developed modules: 
-    • Inventory and stock management.
-    • Goods reception and shipping.
 
 2003
 :    **Junior Software Developer** at Class One (A Coruña, Spain)
 
 Company dedicated to developing and maintaining on-trade-oriented (hotels and restaurants) applications.
 
-- COBOL development of text-mode hostelry applications.
-
-2002
-:    **Internship** as Conservas La Pureza (Carino, Spain)
-
-Flash website for canned Food Factory.
-
 
 \pagebreak
+
 
 Technical Experience
 --------------------
 
 ### Open Source
 
+- Upgrading weather application OTempo to new version of the API. [Java]
 - Added **es3** support to [Google Closure Linter](https://github.com/google/closure-linter) [Python].
 - New example added for [Raspberry PI LED hat](https://github.com/manelvf/RPi-WS2812-HAT). Arduino **C**.
-- Translation file added to [Discourse](https://github.com/discourse/discourse) forum software.
 - Several minor improvements to other open source projects.
 
 
